@@ -58,3 +58,11 @@ a {
   margin: 15px;
 }
 
+.email {
+  color : red;
+  font-size: 20px;
+}
+
+#worldmap {
+  height: 400px;
+  }
